@@ -20,5 +20,5 @@ A command-line based banking application that allows users to create accounts, d
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Rafi-65/simple_bank_project.git](https://github.com/Rafi-65/simple_bank_project.git)
+   git clone https://github.com/Rafi-65/simple_bank_project.git
    cd simple_bank_project
